@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,so.com
 - DOMAIN-SUFFIX,wiki.gg
 
 #steam下载
-DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamstatic.com
