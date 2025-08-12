@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,msi.cn
 DOMAIN-SUFFIX,asus.com.cn
+DOMAIN-SUFFIX,speedtest.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,easebar
